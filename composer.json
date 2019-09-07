@@ -10,7 +10,7 @@
       }
     ],
     "require" : {
-
+        "erusev/parsedown": "^1.7"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0"
