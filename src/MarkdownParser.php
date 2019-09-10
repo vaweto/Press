@@ -4,7 +4,9 @@
 namespace vaweto\Press;
 
 
-class MarkdownParser
+use vaweto\Press\Tests\TestCase;
+
+class MarkdownParser extends TestCase
 {
     public static function parse($string)
     {
